@@ -88,7 +88,7 @@ License
 This project is licensed under the MIT License.
 For any questions or feedback, feel free to reach out to Sandeep.
 
-**Contact:** sandndeep27d@gmail.com
+**Contact:** sandeep27d@gmail.com
 
 
 
