@@ -1,4 +1,4 @@
-package com.example.facedetector
+package com.example.facedetector.gallery
 
 import com.example.facedetector.db.FaceTag
 import com.example.facedetector.db.FaceTagDao

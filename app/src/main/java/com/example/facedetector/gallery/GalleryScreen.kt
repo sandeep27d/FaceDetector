@@ -1,4 +1,4 @@
-package com.example.facedetector
+package com.example.facedetector.gallery
 
 import android.widget.Toast
 import androidx.compose.foundation.background

@@ -1,4 +1,4 @@
-package com.example.facedetector
+package com.example.facedetector.gallery
 import android.graphics.Bitmap
 import com.google.mediapipe.tasks.components.containers.Detection
 

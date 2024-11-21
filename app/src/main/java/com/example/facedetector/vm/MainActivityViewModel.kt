@@ -1,4 +1,4 @@
-package com.example.facedetector
+package com.example.facedetector.vm
 
 import android.content.ContentResolver
 import android.content.Context
@@ -9,6 +9,9 @@ import android.provider.MediaStore
 import androidx.annotation.RequiresApi
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.example.facedetector.gallery.FaceRepository
+import com.example.facedetector.gallery.FaceWithTag
+import com.example.facedetector.gallery.ImageWithFaces
 import com.google.mediapipe.framework.image.BitmapImageBuilder
 import com.google.mediapipe.tasks.components.containers.Detection
 import com.google.mediapipe.tasks.core.BaseOptions
