@@ -86,9 +86,10 @@ Push the branch:
 License
 
 This project is licensed under the MIT License.
-Contact
-
 For any questions or feedback, feel free to reach out to Sandeep.
 
+**Contact:** sandndeep27d@gmail.com
 
-Replace the placeholder email in the **Contact** section and the license link as needed. This `README.md` gives a comprehensive overview of the project and its features.
+
+
+
